@@ -8,6 +8,12 @@ The good thing is that all of your beatmaps have an MP3 version of their songs n
 _As you can see this method is not very helpful_ 
 
 
-## Subtitle
+## **The Solution**
+
+I have made a program that allows you to do exactly that. Finding, renaming and transferring all of your Osu beatmap MP3s to your folder of choice, giving you a location with all of your songs in one place. To use, put the path of the folder titled "Songs" (located inside the files of your Osu! installation) in the first path selector, then put the path to the folder that you want the MP3s to be copied to in the second path selector. Hit start and the your songs will be copied.
+
 
 ![alt text](https://github.com/Twinzet/git-repo/blob/76c178bf9b5fb8682328756adffaf710cb6e6efe/imageClosure.PNG)
+_The two file path selectors_
+
+Enjoy!
