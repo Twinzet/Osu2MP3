@@ -6,3 +6,8 @@ The good thing is that all of your beatmaps have an MP3 version of their songs n
 
 ![alt text](https://github.com/Twinzet/git-repo/blob/f2dff383b4d2ed1df289bd72e24e4e9bc854163b/image_2023-01-07_224501016.png)
 _As you can see this method is not very helpful_ 
+
+
+## Subtitle
+
+![alt text](https://github.com/Twinzet/git-repo/blob/76c178bf9b5fb8682328756adffaf710cb6e6efe/imageClosure.PNG)
