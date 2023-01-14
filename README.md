@@ -1,4 +1,4 @@
-# Osu2MP3
+# Osu2MP3 (GITHUB REPO IS A WORK IN PROGRESS)
 
 Have you ever missed your Osu songs when you aren't playing Osu? Of course you can find and download your songs from the internet, but when your Osu songs collection has more than 1000 songs, it isn't the best idea to try to download them all manually.
 
